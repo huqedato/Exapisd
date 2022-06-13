@@ -18,7 +18,7 @@ Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 Ready to run in production? Please [check Phoenix deployment guides](https://hexdocs.pm/phoenix/deployment.html).
 
 ## Usage
-The API's web links serves the data as it is structured on the file repository set on the server.
+The API's web links serves the data as it is structured in the file repository on the server.
 ### Example
 Considering the repository path is `./temp/repo` and in the sub-directory `/test/` there is `test.json` file:
 `./temp/repo/json/test.json`. Then the web API link will be http://localhost:4000/json
