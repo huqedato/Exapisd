@@ -1,3 +1,5 @@
+[![GitHub license](https://img.shields.io/github/license/huqedato/Exapisd)](https://github.com/huqedato/Exapisd)
+
 # Exapisd
 A simple web API for serving data from json, SQLite or csv static files to json.
 
@@ -28,7 +30,7 @@ Other examples:
 
 The application serves the first alphabetically file found in it. If you have both `bar.json` and `foe.csv` in the same directory, the `bar.json` will be fetched. 
 
-## TODO
+## TODOs
  - tests/benchmarks
  - add support for xls, tsv, xml, unstructured
  - handle errors related to corrupt files (help appreciated!) in a better way.
