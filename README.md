@@ -32,8 +32,9 @@ The application serves the first alphabetically file found in it. If you have bo
 
 ## TODOs
  - tests/benchmarks
- - add support for xls, tsv, xml, unstructured
- - handle errors related to corrupt files (help appreciated!) in a better way.
+ - add support for more data files types: xls, tsv, xml, unstructured
+ - handle errors related to corrupt files in a better way.
+ - documentation; ExDoc (?)
 
 ## Who is using it?
 This application is in production (used internally) at the Joint Research Center of the European Commission.
